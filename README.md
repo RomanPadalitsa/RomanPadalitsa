@@ -1,4 +1,4 @@
-![Header](https://github.com/RomanPadalitsa/RomanPadalitsa/blob/main/assets/logo.png)
+![Header](https://github.com/RomanPadalitsa/RomanPadalitsa/blob/main/assets/roman-padalitsa.jpg)
 
 ## I'm a QA Engineer
 
