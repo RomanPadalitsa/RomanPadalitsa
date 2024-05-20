@@ -14,3 +14,21 @@
   <img src="https://img.shields.io/badge/testrail-000010?style=for-the-badge&logo=testrail&logoColor=65C179" alt="testrail"/>&nbsp
   <img src="https://img.shields.io/badge/Figma-000010?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="figma"/>&nbsp
 </div>
+
+### 🛠 Тестирование веб-приложений:
+<div>
+   <img src="https://img.shields.io/badge/chrome devtools-000010?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="chrome devtools"/>&nbsp
+  <img src="https://img.shields.io/badge/postman-000010?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="postman"/>&nbsp
+</div>
+
+### 💾 Работа с данными:
+<div>
+  <img src="https://img.shields.io/badge/mysql-000010?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="mysql"/>&nbsp
+</div>
+
+### ✏️ Работа с кодом:
+<div>
+  <img src="https://img.shields.io/badge/vscode-000010?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="visualstudiocode"/>&nbsp
+  <img src="https://img.shields.io/badge/git-000010?style=for-the-badge&logo=git&logoColor=F05032" alt="git"/>
+  <img src="https://img.shields.io/badge/gnubash-000010?style=for-the-badge&logo=gnubash&logoColor=F05032" alt="gnubash"/>&nbsp
+</div>
